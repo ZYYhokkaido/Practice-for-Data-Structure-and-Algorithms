@@ -1,0 +1,297 @@
+Conversation 1
+
+　　Narrator
+
+　　Listen to a conversation between a student and a professor.
+
+　　Student
+
+　　Uh, excuse me, Professor Thompson. I know your office hours are tomorrow, but I was wondering if you had a few minutes free now to discuss something.
+
+　　Professor
+
+　　Sure, John. What did you want to talk about?
+
+　　Student
+
+　　Well, I have some quick questions about how to write up the research project I did this semester—about climate variations.
+
+　　Professor
+
+　　Oh, yes. You were looking at variations in climate in the Grant City area, right? How far along have you gotten?
+
+　　Student
+
+　　I’ve got all my data, so I’m starting to summarize it now, preparing graphs and stuff. But I’m just. . . I’m looking at it and I’m afraid that it’s not enough, but I’m not sure what else to put in the report.
+
+　　Professor
+
+　　I hear the same thing from every student. You know, you have to remember now that you’re the expert on what you’ve done. So, think about what you’d need to include if you were going to explain your research project to someone with general or casual knowledge about the subject, like . . . like your parents. That’s usually my rule of thumb: would my parents understand this?
+
+　　Student
+
+　　OK. I get it.
+
+　　Professor
+
+　　I hope you can recognize by my saying that how much you do know about the subject.
+
+　　Student
+
+　　Right. I understand. I was wondering if I should also include the notes from the research journal
+
+　　you suggested I keep.
+
+　　Professor
+
+　　Yes, definitely. You should use them to indicate what your evolution in thought was through time. So, just set up, you know, what was the purpose of what you were doing—to try to understand the climate variability of this area—and what you did, and what your approach was.
+
+　　Student
+
+　　OK. So, for example, I studied meteorological records; I looked at climate charts; I used different methods for analyzing the data, like certain statistical tests; and then I discuss the results. Is that what you mean?
+
+　　Professor
+
+　　Yes, that’s right. You should include all of that. The statistical tests are especially important. And also be sure you include a good reference section where all your published and unpublished data came from, ‘cause you have a lot of unpublished climate data.
+
+　　Student
+
+　　Hmm . . . something just came into my mind and went out the other side.
+
+　　Professor
+
+　　That happens to me a lot, so I’ve come up with a pretty good memory management tool. I carry a little pad with me all the time and jot down questions or ideas that I don’t want to forget. For example, I went to the doctor with my daughter and her baby son last week and we knew we wouldn’t remember everything we wanted to ask the doctor, so we actually made a list of five things we wanted answers to.
+
+　　Student
+
+　　A notepad is a good idea. Since I’m so busy now at the end of the semester, I’m getting pretty forgetful these days. OK. I just remembered what I was trying to say before.
+
+　　Professor
+
+　　Good. I was hoping you’d come up with it.
+
+　　Student
+
+　　Yes. It ends up that I have data on more than just the immediate Grant City area, so I also included some regional data in the report. With everything else it should be a pretty good indicator of the climate in this part of the state.
+
+　　Professor
+
+　　Sounds good. I’d be happy to look over a draft version before you hand in the final copy, if you
+
+　　wish.
+
+　　Student
+
+　　Great. I’ll plan to get you a draft of the paper by next Friday. Thanks very much. Well, see ya.
+
+　　Professor
+
+　　OK.
+
+　　TPO2 Lecture 1 Philosophy
+
+　　Narrator
+
+　　Listen to part of a psychology lecture. The professor is discussing behaviorism.
+
+　　Professor
+
+　　Now, many people consider John Watson to be the founder of behaviorism. And like other behaviorists, he believed that psychologists should study only the behaviors they can observe and measure. They’re not interested in mental processes. While a person could describe his thoughts, no one else can see or hear them to verify the accuracy of his report. But one thing you can observe is muscular habits. What Watson did was to observe muscular habits because he viewed them as a manifestation of thinking. One kind of habit that he studied are laryngeal habits. Watson thought laryngeal habits . . . you know, from larynx, in other words, related to the voice box . . . he thought those habits were an expression of thinking. He argued that for very young children, thinking is really talking out loud to oneself because they talk out loud even if they’re not trying to communicate with someone in particular. As the individual matures, that overt talking to oneself becomes covert talking to oneself, but thinking still shows up as a laryngeal habit. One of the bits of evidence that supports this is that when people are trying to solve a problem, they, um, typically have increased muscular activity in the throat region. That is, if you put electrodes on the throat and measure muscle potential—muscle activity—you discover that when people are thinking, like if they’re diligently trying to solve a problem, that there is muscular activity in the throat region. So, Watson made the argument that problem solving, or thinking, can be defined as a set of behaviors—a set of responses—and in this case the response he observed was the throat activity. That’s what he means when he calls it a laryngeal habit. Now, as I am thinking about what I am going to be saying, my muscles in my throat are responding. So, thinking can be measured as muscle activity. Now, the motor theory . . . yes?
+
+　　Student
+
+　　Professor Blake, um, did he happen to look at people who sign? I mean deaf people?
+
+　　Professor
+
+　　Uh, he did indeed, um, and to jump ahead, what one finds in deaf individuals who use sign language when they’re given problems of various kinds, they have muscular changes in their hands when they are trying to solve a problem . . . muscle changes in the hand, just like the muscular changes going on in the throat region for speaking individuals. So, for Watson, thinking is identical with the activity of muscles. A related concept of thinking was developed by William James. It’s called ideomotor action. Ideomotor action is an activity that occurs without our noticing it, without our being aware of it. I’ll give you one simple example. If you think of locations, there tends to be eye movement that occurs with your thinking about that location. In particular, from where we’re sitting, imagine that you’re asked to think of our university library. Well, if you close your eyes and think of the library, and if you’re sitting directly facing me, then according to this notion, your eyeballs will move slightly to the left, to your left, ‘cause the library’s in that general direction. James and others said that this is an idea leading to a motor action, and that’s why it’s called “ideomotor action”—an idea leads to motor activity. If you wish to impress your friends and relatives, you can change this simple process into a magic trick. Ask people to do something such as I’ve just described: think of something on their left; think of something on their right. You get them to think about two things on either side with their eyes closed, and you watch their eyes very carefully. And if you do that, you’ll discover that you can see rather clearly the eye movement—that is, you can see the movement of the eyeballs. Now, then you say, think of either one and I’ll tell which you’re thinking of. OK. Well, Watson makes the assumption that muscular activity is equivalent to thinking. But given everything we’ve been talking about here, one has to ask: are there alternatives to this motor theory—this claim that muscular activities are equivalent to thinking? Is there anything else that might account for this change in muscular activity, other than saying that it is thinking? And the answer is clearly yes. Is there any way to answer the question definitively? I think the answer is no.
+
+　　TPO2 Lecture 2 Psychology
+
+　　Narrator
+
+　　Listen to part of a lecture from a Botany class.
+
+　　Professor
+
+　　Hi, everyone. Good to see you all today. Actually, I expected the population to be a lot lower today. It typically runs between 50 and 60 percent on the day the research paper is due. Um, I was hoping to have your exams back today, but, uh, the situation was that I went away for the weekend, and I was supposed to get in yesterday at five, and I expected to fully complete all the exams by midnight or so, which is the time that I usually go to bed, but my flight was delayed, and I ended up not getting in until one o’clock in the morning. Anyway, I’ll do my best to have them finished by the next time we meet. OK. In the last class, we started talking about useful plant fibers. In particular, we talked about cotton fibers, which we said were very useful, not only in the textile industry, but also in the chemical industry, and in the production of many products, such as plastics, paper, explosives, and so on. Today we’ll continue talking about useful fibers, and we’ll begin with a fiber that’s commonly known as “Manila hemp.” Now, for some strange reason, many people believe that Manila hemp is a hemp plant. But Manila hemp is not really hemp. It’s actually a member of the banana family— it even bears little banana-shaped fruits. The “Manila” part of the name makes sense, because Manila hemp is produced chiefly in the Philippine Islands and, of course, the capital city of the Philippines is Manila. Now, as fibers go, Manila hemp fibers are very long. They can easily be several feet in length and they’re also very strong, very flexible. They have one more characteristic that’s very important, and that is that they are exceptionally resistant to salt water. And this combination of characteristics—long, strong, flexible, resistant to salt water—makes Manila hemp a great material for ropes, especially for ropes that are gonna be used on ocean-going ships. In fact, by the early 1940’s, even though steel cables were available, most ships in the United States Navy were not moored with steel cables; they were moored with Manila hemp ropes. Now, why was that? Well, the main reason was that steel cables degrade very, very quickly in contact with salt water. If you’ve ever been to San Francisco, you know that the Golden Gate Bridge is red. And it’s red because of the zinc paint that goes on those stainless steel cables. That, if they start at one end of the bridge and they work to the other end, by the time they finish, it’s already time to go back and start painting the beginning of the bridge again, because the bridge was built with steel cables, and steel cables can’t take the salt air unless they’re treated repeatedly with a zinc-based paint. On the other hand, plant products like Manila hemp, you can drag through the ocean for weeks on end. If you wanna tie your anchor to it and drop it right into the ocean, that’s no problem, because plant fibers can stand up for months, even years, in direct contact with salt water. OK. So how do you take plant fibers that individually you could break with your hands and turn them into a rope that’s strong enough to moor a ship that weighs thousands of tons? Well, what you do is you extract these long fibers from the Manila hemp plant, and then you take several of these fibers, and you group them into a bundle, because by grouping the fibers you greatly increase their breaking strength—that bundle of fibers is much stronger than any of the individual fibers that compose it. And then you take that bundle of fibers and you twist it a little bit, because by twisting it, you increase its breaking strength even more. And then you take several of these little bundles, and you group and twist them into bigger bundles, which you then group and twist into even bigger bundles, and so on, until eventually, you end up with a very, very strong rope.
+
+　　TPO 2 Conversation 2
+
+　　Narrator
+
+　　Listen to a conversation between two students. They are both studying to be English teachers.
+
+　　Girl
+
+　　Did you register already for your classes next semester?
+
+　　Boy
+
+　　Yes, I did.
+
+　　Girl
+
+　　What are you taking?
+
+　　Boy
+
+　　Um…contemporary literature, English style, um… the teaching seminar, and I still have to do my student teaching. I’m gonna help teach a writing class of the junior high.
+
+　　Girl
+
+　　That’s a heavy schedule.
+
+　　Boy
+
+　　Yeah, it will be really busy and I’m also taking a theory class. But I have to quit my job a couple of weeks cause it will be just too much.
+
+　　Girl
+
+　　Where do you work at?
+
+　　Boy
+
+　　Buster’s coffee shop, but just till the end of the month. What are you doing next semester?
+
+　　Girl
+
+　　Actually a teaching seminar too. And I will have to start writing my thesis. You know, I’m also going for my master’s degree.
+
+　　Boy
+
+　　So you are not writing any poetry, I imagine.
+
+　　Girl
+
+　　No, I was actually thinking about revising some of my poems and sending them into places for publication.
+
+　　Boy
+
+　　Cool, you should. Um, did you hear about that new poetry club, The Poetry Kitchen?
+
+　　Girl
+
+　　Yeah, no time.
+
+　　Boy
+
+　　It’s fun. It’s Sunday night. You don’t do anything at Sunday nights?
+
+　　Girl
+
+　　I do homework Sunday nights.
+
+　　Boy
+
+　　Well, it’s only from 7 to 9.
+
+　　Girl
+
+　　Is it every Sunday?
+
+　　Boy
+
+　　Last Sunday of every month. I don’t know about this month, cause it’s probably a little too close to Thanksgiving, so they might move it up. I don’t know what they are gonna to do, but it’s a good time, it’s fun, some really impressive readings.
+
+　　Girl
+
+　　Who? From our class?
+
+　　Boy
+
+　　Some people from our class are reading. A lot of them go, sometimes even the professor.
+
+　　Girl
+
+　　Really? I don’t know if I would want reading in front of her.
+
+　　Boy
+
+　　You wouldn’t have to read, you can just watch. I just watched the first time, but it’s a good environment to read them, I think anyway.
+
+　　Girl
+
+　　I probably have to write something new, so maybe during the summer, I just can’t now.
+
+　　Boy
+
+　　Yeah, it wouldn’t be the same just reading old stuff. Are you going to do summer school?
+
+　　Girl
+
+　　Definitely. Otherwise, I will be short 6 credits. I have no choice.
+
+　　Boy
+
+　　Yeah, me too. This is the second summer I’ll have to take classes. I gotta go now, my Shakespeare class starts at twenty minutes.
+
+　　TPO2 Lecture 3 Philosophy
+
+　　Narrator
+
+　　Listen to part of a lecture in a philosophy class.
+
+　　Professor
+
+　　OK. Another ancient Greek philosopher we need to discuss is Aristotle—Aristotle’s ethical theory. What Aristotle’s ethical theory is all about is this: he’s trying to show you how to be happy—what true happiness is. Now, why is he interested in human happiness? It’s not just because it’s something that all people want to aim for. It’s more than that. But to get there we need to first make a very important distinction. Let me introduce a couple of technical terms: extrinsic value and intrinsic value. To understand Aristotle’s interest in happiness, you need to understand this distinction. Some things we aim for and value, not for themselves but for what they bring about in addition to themselves. If I value something as a means to something else, then it has what we will call “extrinsic value.” Other things we desire and hold to be valuable for themselves alone. If we value something not as a means to something else, but for its own sake, let us say that it has “intrinsic value.” Exercise. There may be some people who value exercise for itself, but I don’t. I value exercise because if I exercise, I tend to stay healthier than I would if I didn’t. So I desire to engage in exercise and I value exercise extrinsically . . . not for its own sake, but as a means to something beyond it. It brings me good health. Health. Why do I value good health? Well, here it gets a little more complicated for me. Um, health is important for me because I can’t . . .do other things I want to do— play music, teach philosophy—if I’m ill. So health is important to me—has value to me—as a means to a productive life. But health is also important to me because I just kind of like to be healthy—it feels good. It’s pleasant to be healthy, unpleasant not to be. So to some degree I value health both for itself and as a means to something else: productivity. It’s got extrinsic and intrinsic value for me. Then there’s some things that are just valued for themselves. I’m a musician, not a professional musician; I just play a musical instrument for fun. Why do I value playing music? Well, like most amateur musicians, I only play because, well, I just enjoy it. It’s something that’s an end in itself. Now, something else I value is teaching. Why? Well, it brings in a modest income, but I could make more money doing other things. I’d do it even if they didn’t pay me. I just enjoy teaching. In that sense it’s an end to itself. But teaching’s not something that has intrinsic value for all people—and that’s true generally. Most things that are enjoyed in and of themselves vary from person to person. Some people value teaching intrinsically, but others don’t. So how does all this relate to human happiness? Well, Aristotle asks: is there something that all human beings value . . . and value only intrinsically, for its own sake and only for its own sake? If you could find such a thing, that would be the universal final good, or truly the ultimate purpose or goal for all human beings. Aristotle thought the answer was yes. What is it? Happiness. Everyone will agree, he argues, that happiness is the ultimate end to be valued for itself and really only for itself. For what other purpose is there in being happy? What does it yield? The attainment of happiness becomes the ultimate or highest good for Aristotle. The next question that Aristotle raises is: what is happiness? We all want it; we all desire it; we all seek it. It’s the goal we have in life. But what is it? How do we find it? Here he notes, with some frustration, people disagree. But he does give us a couple of criteria, or features, to keep in mind as we look for what true human happiness is. True human happiness should be, as he puts it, complete. Complete in that it’s all we require. Well, true human happiness . . . if you had that, what else do you need? Nothing. And, second, true happiness should be something that I can obtain on my own. I shouldn’t have to rely on other people for it. Many people value fame and seek fame. Fame for them becomes the goal. But, according to Aristotle, this won’t work either, because fame depends altogether too much on other people. I can’t get it on my own, without help from other people. In the end, Aristotle says that true happiness is the exercise of reason—a life of intellectual contemplation . . . of thinking. So let’s see how he comes to that.
+
+　　TPO 2 Lecture 4 Astronomy
+
+　　Narrator
+
+　　Listen to part of a lecture in an astronomy class. You will not need to remember the numbers the
+
+　　professor mentions.
+
+　　Professor
+
+　　OK. Let’s get going. Today I’m going to talk about how the asteroid belt was discovered. And . . . I’m going to start by writing some numbers on the board. Here they are: We’ll start with zero, then 3, . . . 6, . . . 12. Uh, tell me what I’m doing.
+
+　　Female student
+
+　　Multiplying by 2?
+
+　　Professor
+
+　　Right. I’m doubling the numbers, so 2 times 12 is 24, and the next one I’m going to write after 24 would be . . .
+
+　　Female student
+
+　　48.
+
+　　Professor
+
+　　48. Then 96. We’ll stop there for now. Uh, now I’ll write another row of numbers under that. Tell me what I’m doing. 4, 7, 10 . . . How am I getting this second row?
+
+　　Male Student
+
+　　Adding 4 to the numbers in the first row.
+
+　　Professor
+
+　　I’m adding 4 to each number in the first row to give you a second row. So the last two will be 52, 100, and now tell me what I’m doing.
+
+　　Female Student
+
+　　Putting in a decimal?
+
+　　Professor
+
+　　Yes, I divided all those numbers by 10 by putting in a decimal point. Now I’m going to write the names of the planets under the numbers. Mercury . . . Venus. . . Earth. . . Mars. So, what do the numbers mean? Do you remember from the reading?
+
+　　Male Student
+
+　　Is it the distance of the planets from the Sun?
+
+　　Professor
+
+　　Right. In astronomical units—not perfect, but tantalizingly close. The value for Mars is off by . . . 6 or 7 percent or so. It’s . . . but it’s within 10 percent of the average distance to Mars from the Sun. But I kind of have to skip the one after Mars for now. Then Jupiter’s right there at 5-point something, and then Saturn is about 10 astronomical units from the Sun. Um, well, this pattern is known as Bode’s Law. Um, it isn’t really a scientific law, not in the sense of predicting gravitation mathematically or something, but it’s attempting a pattern in the spacing of the planets, and it was noticed by Bode hundreds of years ago. Well, you can imagine that there was some interest in why the 2.8 spot in the pattern was skipped, and um . . . but there wasn’t anything obvious there, in the early telescopes. Then what happened in the late 1700s? The discovery of . . . ?
+
+　　Female Student
+
+　　Another planet?
+
+　　Professor
+
+　　The next planet out, Uranus—after Saturn. And look, Uranus fits in the next spot in the pattern pretty nicely, um, not perfectly, but close. And so then people got really excited about the validity of this thing and finding the missing object between Mars and Jupiter. And telescopes, remember, were getting better. So people went to work on finding objects that would be at that missing distance from the Sun, and then in 1801, the object Ceres was discovered. And Ceres was in the right place—the missing spot. Uh, but it was way too faint to be a planet. It looked like a little star. Uh, and because of its starlike appearance, um, it was called an “asteroid.” OK? “Aster” is Greek for “star,” as in “astronomy.” Um, and so, Ceres was the first and is the largest of what became many objects discovered at that same distance. Not just one thing, but all the objects found at that distance from the asteroid belt. So the asteroid belt is the most famous success of this Bode’s Law. That’s how the asteroid belt was discovered.
